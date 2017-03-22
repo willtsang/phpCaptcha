@@ -6,6 +6,12 @@ Predis
 
 ## install
 
+    composer.json
+    
+    require: {
+        "php-captcha/captcha": "~1.0"
+    }
+
 ## example
 
 * use base64 string
