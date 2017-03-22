@@ -1,0 +1,2 @@
+# phpCaptcha
+php image captcha 
