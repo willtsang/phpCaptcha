@@ -16,6 +16,6 @@
   },
   "require": {
     "php": ">=5.5.0",
-    "predis/predis": "~"
+    "predis/predis": "~1.1"
   }
 }
