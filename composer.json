@@ -1,0 +1,21 @@
+{
+  "name": "phpCaptcha/captcha",
+  "description": "php image captcha",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Will Tsang",
+      "email": "z1298703836@sina.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Captcha\\": "src/Captcha"
+    }
+  },
+  "require": {
+    "php": ">=5.5.0",
+    "predis/predis": "~"
+  }
+}
